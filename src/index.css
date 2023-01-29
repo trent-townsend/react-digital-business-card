@@ -1,0 +1,16 @@
+html, body, p {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial;
+}
+
+body {
+  background-color: #23252C;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+

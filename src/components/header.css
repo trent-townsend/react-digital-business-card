@@ -1,0 +1,44 @@
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.header {
+    background-color: #1A1B21;
+    border-radius: 10px 10px 0 0
+}
+
+.profile-img {
+    max-width: 320px;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 1.2rem;
+  }
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+  #name {
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0.38rem;
+  }
+
+  #role-title {
+    color: #F3BF99;
+    font-weight: 400;
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0.55rem;
+  }
+
+  #url {
+    color: #F5F5F5;
+    font-weight: 400;
+    font-size: 10.2px;
+  }
