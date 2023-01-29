@@ -9,7 +9,6 @@ lerna-debug.log*
 deploy.sh
 
 node_modules
-dist/
 *.local
 
 # Editor directories and files
