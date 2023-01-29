@@ -1,4 +1,8 @@
 import "../components/footer.css";
+import squareFacebook from "../assets/icons/square-facebook.svg";
+import squareTwitter from "../assets/icons/twitter.svg";
+import instagramIcon from "../assets/icons/instagram.svg";
+import githubIcon from "../assets/icons/square-github.svg";
 
 export default function Footer() {
   return (
@@ -6,28 +10,28 @@ export default function Footer() {
 
 <a href="#">
     <img
-    src="src/assets/icons/twitter.svg" 
+    src={squareTwitter} 
     alt ="twitter link"
     className="social-icon"/>
     </a>
 
     <a href="#">
     <img
-    src="src/assets/icons/square-facebook.svg" 
+    src={squareFacebook} 
     alt ="facebook link"
     className="social-icon"/>
     </a>
 
     <a href="#">
     <img
-    src="src/assets/icons/instagram.svg"
+    src={instagramIcon}
     alt="instagram link"
     className="social-icon" />
     </a>
 
     <a href="#">
     <img
-    src="src/assets/icons/square-github.svg" 
+    src={githubIcon} 
     alt ="github link"
     className="social-icon"/>
     </a>
