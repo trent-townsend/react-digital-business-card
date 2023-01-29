@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://trent-townsend.github.io/react-digital-business-card",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
