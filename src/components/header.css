@@ -61,6 +61,8 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     gap: 0.5rem;
     align-items: center;
+    font-weight: 500;
+    color: #374151;
   }
 
   #mail-icon {
@@ -71,6 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   #linkedin-btn {
     background-color: #5093E2;
     color: white;
+    font-weight: 500;
     display: flex;
     gap: 0.5rem;
     align-items: center;
