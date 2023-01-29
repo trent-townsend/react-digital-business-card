@@ -1,0 +1,18 @@
+footer {
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social-icon {
+    width: 20px;
+    margin: 1.25rem 0;
+    padding: 0.3rem;
+    background-color: #918E9B;
+    border-radius: 3px;
+}
+
+a img:hover {
+    background-color: whitesmoke;
+}
