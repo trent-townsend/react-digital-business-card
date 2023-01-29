@@ -41,4 +41,42 @@ h1, h2, h3, h4, h5, h6 {
     color: #F5F5F5;
     font-weight: 400;
     font-size: 10.2px;
+    margin-bottom: 1.06rem;
+  }
+
+  .contact-btn {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  button {
+    padding: 0.56rem 1.23rem;
+    border: none;
+    border-radius: 5px;
+  }
+
+  #email-btn {
+    background-color: white;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  #mail-icon {
+    content: url('../assets/icons/envelope-solid.svg');
+    width: 1rem;
+  }
+
+  #linkedin-btn {
+    background-color: #5093E2;
+    color: white;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  #linkedin-icon {
+    content: url('../assets/icons/linkedin.svg');
+    width: 1rem;
   }
