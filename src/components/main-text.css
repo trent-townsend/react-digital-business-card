@@ -1,0 +1,22 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 2.25rem;
+    max-width: 250px;
+}
+
+.info-title {
+    color: white;
+    margin-bottom: 0.3rem;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.section-text {
+    color: white;
+    font-size: 0.64rem;
+    font-weight: 400;
+    margin-bottom: 1.7rem;
+    line-height: 1rem;
+}
